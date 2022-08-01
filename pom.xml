@@ -16,12 +16,10 @@
     </properties>
 
     <dependencies>
-
         <dependency>
             <groupId>org.telegram</groupId>
             <artifactId>telegrambots</artifactId>
             <version>${telegrambots.version}</version>
         </dependency>
-
     </dependencies>
 </project>
